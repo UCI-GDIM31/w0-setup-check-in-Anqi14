@@ -7,18 +7,22 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+My name is Anqi, and my pronouns is She/her. I really like to play Stardew Valley, Identity V, Stray, and some other games. I am taking this class because I plan to switch to GDIM major, I have also taken a summer course at UCLA about game design for two weeks. I hope to build games that are fun, and suitable for almost everyone to play, and I am really interested in building games such as RPG, Open world, galgame, etc. 
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
+Urban studies, but planning to switch to GDIM
 
 3. What are you hoping to get out of this class?
+
+I hope to learn some fundamental skills that is needed to start to build a game.
+
 4. What, if anything, are you nervous about for this class?
+"
+I am quite nervous that I can not navigate through the technology becuase I am not a "techy" person.
 
 ## Prior Experience
+
 
 The next questions ask about what (if any) prior experience you have. This class assumes students have no prior knowledge, so don’t worry if you have 0 experience programming or with game development! Just write 0 or N/A under the headers. These questions are JUST for us to get an overall picture of the class's experience level so that we can make sure to be meeting you all where you are.
 
@@ -26,9 +30,15 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
+a little bit of python, but that was 4 years ago. 
+
 2. Game development (any engine)
 
+Unity 3D and the 2D one. 
+
 3. Unity
+
+Yes, sort of. 
 
 ### Programming & Game Development Concepts
 
@@ -41,13 +51,23 @@ For the next questions, a programming or game development concept is presented:
 
 1. Game design document
 
+A document that is like a diary of what you did, designed ,thought, and planned for your game. 
+
 2. Scope management
+
+N/A
 
 3. Iteration
 
+N/A
+
 4. Object-Oriented programming
 
+I think its programming a specific object to make it do something. 
+
 5. Model-View-Controller architecture
+
+N/A
 
 ## Complete!
 
