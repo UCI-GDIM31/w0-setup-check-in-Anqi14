@@ -19,7 +19,7 @@ I hope to learn some fundamental skills that is needed to start to build a game.
 
 4. What, if anything, are you nervous about for this class?
 "
-I am quite nervous that I can not navigate through the technology becuase I am not a "techy" person.
+I am quite nervous that I can not navigate through the technology becuase I am not a "techy" person. And it takes me some time to master the skills that is needed to find something in unity, etc.
 
 ## Prior Experience
 
